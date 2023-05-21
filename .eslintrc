@@ -1,4 +1,6 @@
 {
-  "extends": ["eslint-config-unjs"],
+  "extends": [
+    "icebreaker"
+  ],
   "rules": {}
 }
